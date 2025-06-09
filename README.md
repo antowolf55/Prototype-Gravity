@@ -64,6 +64,6 @@ Controles Juego
   | Salir de mente | TAB |
   | Menú de pausa | ESC |
 
-  Exportar crea un archivo en el escritorio llamado "dataPrototypeGravity.dat".
+Exportar crea un archivo en el escritorio llamado "dataPrototypeGravity.dat".
   
-  Para importar los datos guardados deja el archivo "dataPrototypeGravity.dat" en el escritorio.
+Para importar los datos guardados deja el archivo "dataPrototypeGravity.dat" en el escritorio.
