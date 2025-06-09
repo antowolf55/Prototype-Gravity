@@ -63,3 +63,6 @@ Controles Juego
   | Soltar foto | Q |
   | Salir de mente | TAB |
   | Menú de pausa | ESC |
+
+  Exportar crea un archivo en el escritorio llamado "dataPrototypeGravity.dat".
+  Para importar los datos guardados deja el archivo "dataPrototypeGravity.dat" en el escritorio.
