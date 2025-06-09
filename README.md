@@ -23,6 +23,7 @@ Controles Juego
   | Mente(modo ver fotos) | TAB |
   | Cámara(modo cámara) | Click izquierdo |
   | Menú de pausa | ESC |
+  
 	Andar en la pared o techo… Se considera “Modo normal” con Click derecho del “Modo gravedad”ç
 
 
@@ -49,6 +50,7 @@ Controles Juego
   | Hacer foto | Click izquierdo |
   | Zoom | Girar rueda del ratón |
   | Desactivar cámara | Q |
+  
 	Las fotos hechas se podrán ver en la carpeta de “Imágenes” por defecto
 
 - Modo mente:
