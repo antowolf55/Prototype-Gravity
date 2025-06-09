@@ -7,3 +7,18 @@ El juego daría libertad al jugador de buscar los casos y las pruebas de cada ca
 En el juegos se muestra en el personaje, en todo momento, la dirección en donde está el suelo para que los jugadores no lleguen a marearse.
 
 El jugador podrá importar y exportar los datos para tener una copia de seguridad o para pasar su progreso a otro dispositivo.
+
+Controles Juego
+		
+- Modo normal:
+
+  | Acción | Control |
+  | --- | --- |
+  | Girar | Ratón |
+  | Caminar | W,A,S,D |
+  | Correr | Caminar + Shift |
+  | Saltar | Espacio |
+  | Poder(modo gravedad) | E |
+  | Mente(modo ver fotos) | TAB |
+  | Cámara(modo cámara) | Click izquierdo |
+  | Menú de pausa | ESC |
